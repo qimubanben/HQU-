@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HQU 华侨大学选课脚本
 // @namespace    Violentmonkey Scripts
-// @version      2025-09-14 2
+// @version      2025-09-14 
 // @description  华侨大学选课助手：自动展开课程详情、识别课程+教学班、优先级抢课、通知提示（鲁棒版）
 // @author       qimubanben
 // @match        *://xk.hqu.edu.cn/xsxk/elective/grablessons*
@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hqu.edu.cn
 // @grant        none
 // @license MIT
-// @updateURL    https://github.com/qimubanben/HQU-/blob/main/HQU%20%E5%8D%8E%E4%BE%A8%E5%A4%A7%E5%AD%A6%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC-2025-09-14.user.js
-// @downloadURL  https://github.com/qimubanben/HQU-/blob/main/HQU%20%E5%8D%8E%E4%BE%A8%E5%A4%A7%E5%AD%A6%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC-2025-09-14.user.js
+// @updateURL    https://raw.githubusercontent.com/qimubanben/HQU-/main/HQU%20%E5%8D%8E%E4%BE%A8%E5%A4%A7%E5%AD%A6%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC-2025-09-14.user.js
+// @downloadURL  https://raw.githubusercontent.com/qimubanben/HQU-/main/HQU%20%E5%8D%8E%E4%BE%A8%E5%A4%A7%E5%AD%A6%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC-2025-09-14.user.js
 // ==/UserScript==
 
 (function () {
