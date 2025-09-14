@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hqu.edu.cn
 // @grant        none
 // @license MIT
-// @downloadURL https://update.greasyfork.org/scripts/522977/%E8%AF%84%E6%95%99%E8%84%9A%E6%9C%AC.user.js
-// @updateURL https://update.greasyfork.org/scripts/522977/%E8%AF%84%E6%95%99%E8%84%9A%E6%9C%AC.meta.js
+// @updateURL    https://raw.githubusercontent.com/qimubanben/HQU-/main/HQU 华侨大学选课脚本-2025-09-14.user.js
+// @downloadURL  https://raw.githubusercontent.com/qimubanben/HQU-/main/HQU 华侨大学选课脚本-2025-09-14.user.js
 // ==/UserScript==
 
 (function () {
