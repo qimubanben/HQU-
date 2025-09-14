@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HQU 华侨大学选课脚本
 // @namespace    Violentmonkey Scripts
-// @version      2025-09-14
+// @version      2025-09-14 2
 // @description  华侨大学选课助手：自动展开课程详情、识别课程+教学班、优先级抢课、通知提示（鲁棒版）
 // @author       qimubanben
 // @match        *://xk.hqu.edu.cn/xsxk/elective/grablessons*
